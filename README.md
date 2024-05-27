@@ -79,17 +79,19 @@ This dataset provides additional treatment-related details:
 # Dashboards Crafted:
 
 ## 1. Comprehensive HealthCare Dashboard
-![Healthcare Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/f28c08af-8fd8-482a-9f2b-821c000c4ec1)
+![TB Healthcare Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/366c15aa-ef34-4e8c-a4c5-2a0b45b09ab7)
 
 
 ## 2. Hospital Performance Comparison Dahboard
-![Hospital Performance Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/72f23051-4023-44f1-8d0e-2bbddd5ddf6f)
+![TB Hospital Comparison Performance Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/7ebc896b-231a-46bc-88ad-f195bae925b7)
+
 
 ## 3. Time Based Analysis Dashboard
-![Time Based Analysis Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/7b13241a-3260-4c45-9310-490c4ffb5d9a)
+![TB Health Care Trend Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/3f69e199-6b04-4933-925a-52967961eca1)
+
 
 ## 4. Treatment Effectiveness Analysis Dashboards
-![Treatment Effectiveness Dashboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/d75da763-ccb7-4b91-8365-f10eb463afa1)
+![TB Treatment Affectiveness DAshboard](https://github.com/sahil-kishor/Tableau-Advancing-Healthcare-Analysis-through-Data-Insights/assets/159517524/ed8f083e-05ae-46c7-8acd-9a6afd4fce6d)
 
 
 ## Key Insights:
