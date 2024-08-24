@@ -116,6 +116,9 @@ This dataset provides additional treatment-related details:
 
 This project leverages Tableau to perform an in-depth analysis of healthcare data, revealing critical insights into patient demographics, treatment patterns, hospital efficiency, and more. The interactive dashboard provides stakeholders with valuable, data-driven insights for enhancing healthcare operations and improving patient outcomes.
 
+## Project Link
+
+***Tableau Public:*** https://public.tableau.com/views/Sahil_Kishor_Tableau_Project_Healthcare_Analysis/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Author
 
